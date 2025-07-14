@@ -5,9 +5,7 @@
 This project provides a comprehensive analysis of **Adidas US sales performance** to uncover insights that drive strategic decision-making. By analyzing transactional data across regions, product types, and sales channels, the goal is to support Adidas in enhancing profitability, optimizing supply chain operations, and improving marketing effectiveness.
 
 ## Adidas US Sales Performance Overview  
-
-![Adidas Sales Dashboard](https://github.com/manarhelmy9847/SkyLink-Churn-Insights/blob/main/Screenshots/Screenshot-(1858).png?raw=true)
-
+![Adidas Sales Dashboard](./Screenshots/Screenshot-(1858).png)
 ##  Business Case
 
 Adidas aims to better understand its performance in the U.S. market. This analysis helps:
